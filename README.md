@@ -2,7 +2,7 @@
 
 A lightweight Python client for exchangerateapi.net providing simple access to two core endpoints.
 
-- Website: [exchangerateapi.com](https://exchangerateapi.com)
+- Website: [exchangerateapi.net](https://exchangerateapi.net)
 
 ## Installation
 
